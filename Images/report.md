@@ -55,5 +55,6 @@ Finished: SUCCESS
 ```
 
 ---
+![Jenkins-stage-view](https://github.com/EmAdd9/Kubernetes-Day08/blob/08467fc37cf2df72187d55ad4912b5ed78c95762/Images/Kubernetes-deploy.png)
 
 The provided Jenkins pipeline script performs steps related to Git checkout and Kubernetes deployment, while the output shows the execution of each step along with the corresponding command outputs.
